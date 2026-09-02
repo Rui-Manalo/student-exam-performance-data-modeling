@@ -6,7 +6,8 @@ This project applies relational data modeling and normalization principles to a 
 
 ## Dataset
 
-Source file: `student_exam_performance.csv`
+Source file: `student_exam_performance.csv` [Link to dataset](https://www.kaggle.com/datasets/mobeenfatimah/student-exam-performance-and-success-dataset)
+
 Rows: 100,000
 Grain: one row per student per exam attempt
 
