@@ -4,6 +4,8 @@
 
 This project applies relational data modeling and normalization principles to a flat, denormalized dataset of 100,000 student records. The raw dataset combines demographic information, household background, study habits, lifestyle factors, and exam outcomes into a single wide table. This project decomposes that table into a normalized relational schema, builds an Entity Relationship Diagram (ERD), and implements a SQL based ETL pipeline that cleans and loads the raw data into the new schema.
 
+![diagram](student_exam_pipeline_diagram.jpg)
+
 ## Dataset
 
 Source file: `student_exam_performance.csv` [Link to dataset](https://www.kaggle.com/datasets/mobeenfatimah/student-exam-performance-and-success-dataset)
