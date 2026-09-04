@@ -111,8 +111,6 @@ erDiagram
   }
 ```
 
-GitHub renders this diagram automatically when viewing this file in the repository, since Mermaid is natively supported in GitHub flavored markdown.
-
 ### Entity Relationship Modeling
 
 The schema was modeled as seven entities:
